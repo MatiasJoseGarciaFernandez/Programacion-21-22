@@ -1,9 +1,9 @@
 public class ejercicio8U2 {
 	public static void main(String[]args) {
-		/*Escribe un programa que declare 5 variables de tipo char. A continuación, crea
-		  otra variable como cadena de caracteres y asígnale como valor la concatenación 
-		  de las anteriores 5 variables. Por último, muestra la cadena de caracteres
-		  por pantalla ¿Qué problemas te encuentras? ¿cómo lo has solucionado?*/
+		/*Escribe un programa que declare 5 variables de tipo char. A continuaciÃ³n, crea
+		  otra variable como cadena de caracteres y asÃ­gnale como valor la concatenaciÃ³n 
+		  de las anteriores 5 variables. Por Ãºltimo, muestra la cadena de caracteres
+		  por pantallaÂ¿QuÃ© problemas te encuentras? Â¿cÃ³mo lo has solucionado?*/
 		char letra1='a';
 		char letra2='b';
 		char letra3='c';
