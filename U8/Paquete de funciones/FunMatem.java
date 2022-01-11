@@ -116,7 +116,7 @@ public class FunMatem {
 		return x;
 	}
 	
-	//EJERCICIO 14
+	//EJERCICIO14
 	public static long juntaNumeros(long x, long y) {
 		return (long)(x * potencia(10, digitos(y))) + y;
 	}
