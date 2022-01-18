@@ -8,7 +8,7 @@ public class ArrayUni {
 		
 		for(int i=0; i<x; i++) {
 			n[i]= (int)(Math.random()*(maximo - minimo + 1))+minimo;
-			System.out.print(n[i]+" ");
+			
 		}
 		return n;
 		
