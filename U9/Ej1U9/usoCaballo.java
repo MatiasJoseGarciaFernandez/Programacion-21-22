@@ -8,10 +8,7 @@ public class usoCaballo {
 		
 		RazaSuprema.cabalga();
 		RazaSuprema.relincha();
-		RazaSuprema.rumia();
-		
-		
-		
+		RazaSuprema.rumia();		
 	}
 
 }
